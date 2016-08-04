@@ -1,0 +1,26 @@
+_repo: Literary-Blunders--A-Chapter-in-the--History-of-Human-Error-_371
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wheatley, Henry B. (Henry Benjamin)
+    alias: Wheatley, H. B. (Henry Benjamin)
+    birthdate: 1838
+    deathdate: 1917
+    gutenberg_agent_id: '205'
+    url: http://www.gutenberg.org/2009/agents/205
+    wikipedia: http://en.wikipedia.org/wiki/Henry_B._Wheatley
+description: ''
+gutenberg_issued: '1995-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '371'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Errors and blunders, Literary'
+- !lcc 'PN'
+- GITenberg
+title: 'Literary Blunders: A Chapter in the "History of Human Error"'
+url: http://www.gutenberg.org/ebooks/371
